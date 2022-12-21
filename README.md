@@ -1,6 +1,7 @@
 # Movie Search
 
 A simple web application that allows users to search for movies and view their details.
+This application is final version of this [blog tuturial](https://medium.com/@dvirarad/creating-a-movie-search-application-with-python-react-and-elasticsearch-14e0450b8bd)
 
 
 ## Installation
